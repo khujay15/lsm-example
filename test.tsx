@@ -1,7 +1,7 @@
 const LLS = createLS({
   example: {
     ko: '예시',
-    en: 'example',
+    en: 'tranlating LS...',
     ja: '例示',
   },
 })
